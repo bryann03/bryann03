@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan Huayamabe, Junior developer
 - 👀 I’m interested in Laravel combined with VueJS, Angular, Java, PHP and yes why not in C#
-- 🌱 I’m currently learning in detal on VueJS
+- 🌱 I’m currently learning in detail on VueJS
 - 💞️ I’m looking to collaborate on Laravel project
 - 📫 You have my contact data on my website -> https://bryan-portfolio.firebaseapp.com/
 
